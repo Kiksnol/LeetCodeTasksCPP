@@ -9,3 +9,5 @@
 ***[Move Zeroes](https://leetcode.com/problems/move-zeroes/) -- [My Solution](tasks/easy/moveZeroes.cpp)***
 
 ***[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) -- [My Solution](tasks/easy/reverseInteger.cpp)***
+
+***[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) -- [My Solution](tasks/easy/validPalindrome)***
