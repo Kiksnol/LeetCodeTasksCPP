@@ -11,3 +11,5 @@
 ***[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) -- [My Solution](tasks/easy/reverseInteger.cpp)***
 
 ***[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) -- [My Solution](tasks/easy/validPalindrome)***
+
+***[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) -- [My Solution](tasks/easy/validParentheses.cpp)***
