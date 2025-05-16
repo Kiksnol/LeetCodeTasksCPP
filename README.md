@@ -18,6 +18,8 @@
 
 ***[Number Of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) -- [My Solution](tasks/easy/numberOfRecentCalls.cpp)***
 
+***[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) -- [My Solution](tasks/easy/palindromeLinkedList.cpp)***
+
 ## Medium tasks
 
 ***[String Compression](https://leetcode.com/problems/string-compression/) -- [My Solution](tasks/medium/stringCompression.cpp)***
