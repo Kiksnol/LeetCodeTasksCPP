@@ -13,3 +13,7 @@
 ***[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) -- [My Solution](tasks/easy/validPalindrome)***
 
 ***[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) -- [My Solution](tasks/easy/validParentheses.cpp)***
+
+## Medium tasks
+
+***[String Compression](https://leetcode.com/problems/string-compression/) -- [My Solution](tasks/medium/stringCompression.cpp)***
