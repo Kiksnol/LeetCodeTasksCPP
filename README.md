@@ -14,6 +14,8 @@
 
 ***[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) -- [My Solution](tasks/easy/validParentheses.cpp)***
 
+***[Two Sum](https://leetcode.com/problems/two-sum/) -- [My Solution](tasks/easy/twoSum.cpp)***
+
 ## Medium tasks
 
 ***[String Compression](https://leetcode.com/problems/string-compression/) -- [My Solution](tasks/medium/stringCompression.cpp)***
