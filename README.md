@@ -16,6 +16,8 @@
 
 ***[Two Sum](https://leetcode.com/problems/two-sum/) -- [My Solution](tasks/easy/twoSum.cpp)***
 
+***[Number Of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) -- [My Solution](tasks/easy/numberOfRecentCalls.cpp)***
+
 ## Medium tasks
 
 ***[String Compression](https://leetcode.com/problems/string-compression/) -- [My Solution](tasks/medium/stringCompression.cpp)***
