@@ -20,6 +20,8 @@
 
 ***[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) -- [My Solution](tasks/easy/palindromeLinkedList.cpp)***
 
+***[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) -- [My Solution](tasks/easy/mergeTwoSortedLists.cpp)***
+
 ## Medium tasks
 
 ***[String Compression](https://leetcode.com/problems/string-compression/) -- [My Solution](tasks/medium/stringCompression.cpp)***
